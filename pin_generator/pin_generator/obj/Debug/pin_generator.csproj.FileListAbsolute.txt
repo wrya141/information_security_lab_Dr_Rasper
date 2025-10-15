@@ -1,0 +1,11 @@
+C:\Users\wrya\source\repos\pin_generator\pin_generator\bin\Debug\pin_generator.exe.config
+C:\Users\wrya\source\repos\pin_generator\pin_generator\bin\Debug\pin_generator.exe
+C:\Users\wrya\source\repos\pin_generator\pin_generator\bin\Debug\pin_generator.pdb
+C:\Users\wrya\source\repos\pin_generator\pin_generator\obj\Debug\pin_generator.csproj.AssemblyReference.cache
+C:\Users\wrya\source\repos\pin_generator\pin_generator\obj\Debug\pin_generator.Form1.resources
+C:\Users\wrya\source\repos\pin_generator\pin_generator\obj\Debug\pin_generator.Properties.Resources.resources
+C:\Users\wrya\source\repos\pin_generator\pin_generator\obj\Debug\pin_generator.csproj.GenerateResource.cache
+C:\Users\wrya\source\repos\pin_generator\pin_generator\obj\Debug\pin_generator.csproj.CoreCompileInputs.cache
+C:\Users\wrya\source\repos\pin_generator\pin_generator\obj\Debug\pin_generator.exe
+C:\Users\wrya\source\repos\pin_generator\pin_generator\obj\Debug\pin_generator.pdb
+C:\Users\wrya\source\repos\pin_generator\pin_generator\obj\Debug\pin_generator.exe.config
