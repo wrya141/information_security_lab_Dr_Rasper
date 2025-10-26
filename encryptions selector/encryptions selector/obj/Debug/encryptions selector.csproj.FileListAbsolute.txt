@@ -1,0 +1,22 @@
+C:\Users\wrya\source\repos\encryptions selector\encryptions selector\bin\Debug\encryptions selector.exe.config
+C:\Users\wrya\source\repos\encryptions selector\encryptions selector\bin\Debug\encryptions selector.exe
+C:\Users\wrya\source\repos\encryptions selector\encryptions selector\bin\Debug\encryptions selector.pdb
+C:\Users\wrya\source\repos\encryptions selector\encryptions selector\obj\Debug\encryptions selector.csproj.AssemblyReference.cache
+C:\Users\wrya\source\repos\encryptions selector\encryptions selector\obj\Debug\encryptions_selector.Form1.resources
+C:\Users\wrya\source\repos\encryptions selector\encryptions selector\obj\Debug\encryptions_selector.Properties.Resources.resources
+C:\Users\wrya\source\repos\encryptions selector\encryptions selector\obj\Debug\encryptions selector.csproj.GenerateResource.cache
+C:\Users\wrya\source\repos\encryptions selector\encryptions selector\obj\Debug\encryptions selector.csproj.CoreCompileInputs.cache
+C:\Users\wrya\source\repos\encryptions selector\encryptions selector\obj\Debug\encryptions selector.exe
+C:\Users\wrya\source\repos\encryptions selector\encryptions selector\obj\Debug\encryptions selector.pdb
+C:\Users\wrya\source\repos\encryptions selector\encryptions selector\obj\Debug\encryptions selector.exe.config
+C:\Mac\Home\Desktop\encryptions selector\encryptions selector\bin\Debug\encryptions selector.exe.config
+C:\Mac\Home\Desktop\encryptions selector\encryptions selector\bin\Debug\encryptions selector.exe
+C:\Mac\Home\Desktop\encryptions selector\encryptions selector\bin\Debug\encryptions selector.pdb
+C:\Mac\Home\Desktop\encryptions selector\encryptions selector\obj\Debug\encryptions selector.csproj.AssemblyReference.cache
+C:\Mac\Home\Desktop\encryptions selector\encryptions selector\obj\Debug\encryptions selector.exe.config
+C:\Mac\Home\Desktop\encryptions selector\encryptions selector\obj\Debug\encryptions_selector.Form1.resources
+C:\Mac\Home\Desktop\encryptions selector\encryptions selector\obj\Debug\encryptions_selector.Properties.Resources.resources
+C:\Mac\Home\Desktop\encryptions selector\encryptions selector\obj\Debug\encryptions selector.csproj.GenerateResource.cache
+C:\Mac\Home\Desktop\encryptions selector\encryptions selector\obj\Debug\encryptions selector.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Desktop\encryptions selector\encryptions selector\obj\Debug\encryptions selector.exe
+C:\Mac\Home\Desktop\encryptions selector\encryptions selector\obj\Debug\encryptions selector.pdb
